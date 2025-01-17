@@ -7,3 +7,4 @@ langchain-core
 langchain-text-splitters
 langchain-chroma
 langchain~=0.3.14
+beautifulsoup4>=4.11.1
